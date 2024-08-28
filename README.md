@@ -16,7 +16,7 @@ Welcome to the **Guess the Number Game**! This simple yet addictive gaame challe
 
 2. Navigate to the project directory:
  
-  	| cd guess-the-number-game |
+  	| cd GuessNumberGame-React-Native-Expo- |
  
 3. Install Dependencies of the project:
  
