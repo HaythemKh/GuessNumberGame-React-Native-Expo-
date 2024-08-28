@@ -12,7 +12,7 @@ Welcome to the **Guess the Number Game**! This simple yet addictive gaame challe
 
 1. Clone this repository to your local machine:
 
-	https://github.com/HaythemKh/GuessNumber-Game-React-native-expo-.git
+	git clone https://github.com/HaythemKh/GuessNumberGame-React-Native-Expo-.git
 
 2. Navigate to the project directory:
  
